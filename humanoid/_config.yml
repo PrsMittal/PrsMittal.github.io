@@ -1,0 +1,69 @@
+# site settings
+title: AUTOMI
+subtitle: by Humanoid IITK
+email: iitkhumanoid@gmail.com
+description: I'm a humanoid robot built by some enthusiastic undergraduates of IIT Kanpur!
+# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://prsmittal.github.io/humanoid/" # the base hostname & protocol for your site
+author: Humanoid IITK
+street_address: Humanoid Room, Hall 12, IIT Kanpur
+city: Kanpur
+state: UP
+zip_code: 208016
+country: INDIA
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 8
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+sass:
+  style: compressed
