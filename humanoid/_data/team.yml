@@ -1,4 +1,4 @@
-  type: 0
+- type: 0
   description:
   name: paras
   image:
@@ -9,7 +9,7 @@
   git:
   linkd:
 
-  type: 0
+- type: 0
   description:
   name: paras
   image:
