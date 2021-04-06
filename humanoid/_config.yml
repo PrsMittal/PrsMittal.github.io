@@ -4,7 +4,7 @@ subtitle: by Humanoid IITK
 email: iitkhumanoid@gmail.com
 description: I'm a humanoid robot built by some enthusiastic undergraduates of IIT Kanpur!
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://prsmittal.github.io/humanoid/" # the base hostname & protocol for your site
+url: "https://humanoid-iitk.github.io" # the base hostname & protocol for your site
 author: Humanoid IITK
 street_address: Humanoid Room, Hall 12, IIT Kanpur
 city: Kanpur
@@ -12,7 +12,7 @@ state: UP
 zip_code: 208016
 country: INDIA
 phone: (716) 555-5555
-
+# permalink: /:team
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 8
