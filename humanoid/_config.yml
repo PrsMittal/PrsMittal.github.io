@@ -66,4 +66,5 @@ people:
       url: #
       
 sass:
-  style: compressed
+  sass_dir: ./sass
+
